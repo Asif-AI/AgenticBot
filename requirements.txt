@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+langchain_groq
+langchain_community
+langchain_openai
+lagchain_langgraph
+langchain_core
+tavily
